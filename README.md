@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
 - 👀 I’m interested in human-computer interaction
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on any web project
 - 📫 bbsekerci@gmail.com
 
