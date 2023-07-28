@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in human-computer interaction
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on any web project
+- 🧠 Studied psychology
+- 👀 Interested in human-computer interaction 
+- 🌱 Currently learning user experience design and front-end web development
+- 💞️ Looking to collaborate on any project
 - 📫 bbsekerci@gmail.com
 
 <!---
