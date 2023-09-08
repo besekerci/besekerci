@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ben
+- 👋 Hi, I’m Berk
 - 🧠 Studied psychology
 - 👀 Interested in human-computer interaction 
 - 🌱 Currently learning user experience design and front-end web development
