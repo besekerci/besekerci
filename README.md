@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Berk
-- 🧠 Studied psychology
-- 👀 Interested in human-computer interaction 
-- 🌱 Currently learning user experience design and front-end development
-- 💞️ Looking to collaborate on any project
-- 🌐 https://besekerci.com
+IT-savvy UX specialist with a psychology background and hands-on web fundamentals (HTML/CSS/JS). Experienced in structured user research, Figma prototyping and pragmatic accessibility. Comfortable moving between research, design and implementation; works closely with engineering.
 
 <!---
 besekerci/besekerci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
